@@ -1,12 +1,16 @@
-# Como contribuir com esse repositório?
-Para contribuir com nosso repositório é importante se atentar as issues que estão abertas e enviar seu pull request. 
-Uma vez verificada a issue que pode contribuir é só seguir o passo a passo abaixo.
+Como contribuir com esse repositório?
 
-# Passo a passo:
-1. Faça uma fork deste repositório
-2. Adicione o seu perfil como uma colaboradora do projeto
-3. Abra um Pull Request com sua submissão/alteração
-4. Solicite a revisão do hacktober-team
-   
-Agora é só aguardar a revisão e aprovação.
+Consulte as issues abertas , responda a issue dizendo que gostaria de contribuir e iremos atribuir ela a você, não desenvolva o conteúdo antes de se associar a issue, pois assim garantimos que duas pessoas não estão na mesma issue
 
+Com quais assuntos posso contribuir?
+
+Principais tópicos:
+- Conceitos de OO,
+- Sintaxe básica da linguagem
+- Principais APIs e bibliotecas do Java
+- Exercicios
+- e muito mais..
+
+Como envio um conteúdo para esse guia?
+
+Após ter desenvolvido o conteúdo que resolva a issue basta envia a pull request sinalizando qual issue ela resolve e comentar na issue qual pull request você enviou, iremos analisar ela e uma vez estando tudo certo ela será mergeada e contabilizada para a hacktobefest.
