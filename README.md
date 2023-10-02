@@ -11,4 +11,4 @@ Principais tópicos:
 - e muito mais..
 
 # Como contribuir
-Veja como contribuir para esse repo [aqui](https://github.com/devs-javagirl/java-trainning/blob/655955ad169368a5681bd94515148eb7b52bf11b/CONTRIBUTING)
+Veja como contribuir para esse repo [aqui](https://github.com/devs-javagirl/java-trainning/blob/9880534b111602b8db240be6aaa9f4d65bed5263/CONTRIBUTING.md)
