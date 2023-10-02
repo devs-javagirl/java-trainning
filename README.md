@@ -8,6 +8,7 @@ Principais tópicos:
 - Sintaxe básica da linguagem
 - Principais APIs e bibliotecas do Java
 - Exercicios
+- e muito mais..
 
 # Como contribuir
 Veja como contribuir para esse repo [aqui](https://exemplo.com/)
