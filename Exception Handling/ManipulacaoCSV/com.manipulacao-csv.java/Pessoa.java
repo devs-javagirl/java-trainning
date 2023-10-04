@@ -32,8 +32,9 @@ public class Pessoa{
     }
 
     public static void main(String[] args) {
-        Pessoa pessoa1 = new pessoa('Fran', 28, 'fran@email.com')
-    }
+        Pessoa pessoa1 = new Pessoa("Fran", 28, "fran@email.com");
 
+        System.out.println(pessoa1);
+    }
 }
 
