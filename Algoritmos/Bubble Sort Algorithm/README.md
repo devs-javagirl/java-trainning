@@ -37,6 +37,6 @@ Vamos exemplificar com a seguinte lista numérica, onde os valores entre [ ] rep
     - O elemento na posição [3] é comparado ao elemento na posição [4], e caso o elemento [4] seja menor, eles trocam de lugar:
       <br> 4<5: Verdadeiro - Os elementos trocam de lugar.
 
-![BubbleSort.gif](..%2F..%2FDownloads%2FBubbleSort.gif)
+![BubbleSort.gif](BubbleSort.gif)
 
 O processo se repete até que todos os elementos estejam ordenados.
