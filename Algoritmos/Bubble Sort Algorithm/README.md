@@ -27,15 +27,14 @@ Vamos exemplificar com a seguinte lista numérica, onde os valores entre [ ] rep
 
 
 * **Primeira passagem:**
-<br>
     - O elemento na posição [0] é comparado ao elemento na posição [1], e caso o elemento [1] seja menor, eles trocam de lugar:
-        <br> 5<3: Falso - Os elementos são mantidos em suas posições.
+        <br> 5 < 3: Falso - Os elementos são mantidos em suas posições.<br> 
     - O elemento na posição [1] é comparado ao elemento na posição [2], e caso o elemento [2] seja menor, eles trocam de lugar:
-        <br> 1<5: Verdadeiro - Os elementos trocam de lugar.
+        <br> 1 < 5: Verdadeiro - Os elementos trocam de lugar.<br> 
     - O elemento na posição [2] é comparado ao elemento na posição [3], e caso o elemento [3] seja menor, eles trocam de lugar:
-      <br> 2<5: Verdadeiro - Os elementos trocam de lugar.
+      <br> 2 < 5: Verdadeiro - Os elementos trocam de lugar.<br> 
     - O elemento na posição [3] é comparado ao elemento na posição [4], e caso o elemento [4] seja menor, eles trocam de lugar:
-      <br> 4<5: Verdadeiro - Os elementos trocam de lugar.
+      <br> 4 < 5: Verdadeiro - Os elementos trocam de lugar.
 
 ![BubbleSort.gif](BubbleSort.gif)
 
