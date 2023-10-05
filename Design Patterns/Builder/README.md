@@ -98,13 +98,13 @@ Uma forma de utilizar o padrão para a construção
 dessas Pizzas é como no exemplo abaixo:
 
 ``` java
-  Pizza sausagePizza = new PizzaBuilder(Size.SMALL, Dought.WHITE)
+  Pizza sausagePizza = new PizzaBuilder(Size.SMALL, Dought.WHITE_WHOLE_WHEAT)
                 .withSauce(Sauce.RED)
                 .withTopping(Topping.CHEESE, Topping.SAUSAGE, Topping.ONION)
                 .withOlive()
                 .build();
 
-        Pizza cheesePizza = new PizzaBuilder(Size.LARGE, Dought.WHITE)
+        Pizza cheesePizza = new PizzaBuilder(Size.LARGE, Dought.WHITE_WHOLE_WHEAT)
                 .withSauce(Sauce.WHITE)
                 .withTopping(Topping.CHEESE)
                 .build();

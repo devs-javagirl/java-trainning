@@ -1,3 +1,3 @@
 enum Dought {
-    WHEAT, WHITE;
+    WHOLE_WHEAT, WHITE_WHOLE_WHEAT;
 }
