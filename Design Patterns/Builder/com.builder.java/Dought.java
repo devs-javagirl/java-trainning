@@ -1,0 +1,3 @@
+enum Dought {
+    WHEAT, WHITE;
+}
