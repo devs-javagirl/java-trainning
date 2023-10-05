@@ -132,8 +132,8 @@ em sua forma original.
 ## Fonte
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 - [Refactoring Guru](https://refactoring.guru/design-patterns/builder)
-- Head First Design Patterns
-- Effective Java
+- [Head First Design Patterns](https://www.amazon.com.br/Cabe%C3%A7a-Padr%C3%B5es-Projetos-Eric-Freeman/dp/8576081741)
+- [Effective Java](https://www.amazon.com.br/Effective-Java-English-Joshua-Bloch-ebook/dp/B078H61SCH/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VO8TOTTXMH5Y&keywords=effective+java&qid=1696547006&s=books&sprefix=effective+java%2Cstripbooks%2C148&sr=1-1)
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/builder-design-pattern-in-java)
 - [JournalDev: Builder Design Pattern](https://www.youtube.com/watch?v=D5NK5qMM14g&ab_channel=JournalDevITServices)
 - [Exploring Joshua Bloch’s Builder design pattern in Java](https://blogs.oracle.com/javamagazine/post/exploring-joshua-blochs-builder-design-pattern-in-java)
