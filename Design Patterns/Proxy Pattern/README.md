@@ -18,3 +18,7 @@ ao objeto original.
 ## Desvantagens
 
 - Esse padrão adiciona outra camada de abstração, que ocasionalmente pode causar problemas se alguns clientes acessarem o código do assunto Real diretamente, enquanto outros acessarem as classes Proxy. Isso pode causar comportamento inconsistente.
+
+# Referências
+- [refactoring.guru](https://refactoring.guru/design-patterns/proxy)
+- [java.dev.journal](https://www.javadevjournal.com/java-design-patterns/proxy-design-pattern/)
