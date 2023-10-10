@@ -10,7 +10,7 @@ As operações comuns em pilhas são:
 
 * **Empilhar - *push***: inseri item na pilha. O item é inserido após o último item da pilha, logo o item adicionado passa a ser o último;
 * **Desempilhar - *pop***: remove item da pilha. O item removido é o último adicionado;
-* **Vazia - *empty***: verifica se a pilha está vazia.;
+* **Vazia - *empty***: verifica se a pilha está vazia.
 
 ## Código em Java
 
