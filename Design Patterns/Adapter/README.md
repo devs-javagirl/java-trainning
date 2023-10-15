@@ -15,7 +15,7 @@ legados. Além disso, permite reutilizar bibliotecas de
 terceiros sem fazer alterações na aplicação e sempre 
 podendo alterar as implementações com facilidade.
 
-Essa padrão possui duas abordagens: adaptador de classe e
+Esse padrão possui duas abordagens: adaptador de classe e
 adaptador de objeto.
 
 ### Adaptador de Classe
@@ -104,8 +104,7 @@ A estrutura do projeto é a seguinte:
 
 ```
 
-Uma forma de utilizar o padrão para a construção
-dessas Pizzas é como no exemplo abaixo:
+Uma forma de utilizar o padrão é como no exemplo abaixo:
 
 ``` java
     JackConnector jackConnector = new JackConnector();
