@@ -28,14 +28,14 @@ Aqui, em vez de ter um objeto adaptado dentro do adaptador
 (composição) para fazer uso de sua funcionalidade, o
 adaptador herda o adaptado.
 
-![class-adapter.png](images%2Fclass-adapter.png)
+![class-adapter.png](images/class-adapter.png)
 
 ### Adaptador de Objeto
 Essa implementação usa o princípio de composição do objeto:
 o adaptador implementa a interface de um objeto e encobre
 o outro. O adaptador contém uma instância do adaptado.
 
-![obj-adaptor.png](images%2Fobj-adaptor.png)
+![obj-adaptor.png](images/obj-adaptor.png)
 
 Algumas vantagens e desvantagens dessa abordagem são:
 
@@ -46,7 +46,7 @@ Algumas vantagens e desvantagens dessa abordagem são:
 
 ## Exemplo
 
-![jack-to-usbc.png](images%2Fjack-to-usbc.png)
+![jack-to-usbc.png](images/jack-to-usbc.png)
 
 Eu, como boa amante de música, estou sempre com um fone de ouvido pluggado por aí.
 
@@ -62,7 +62,7 @@ Um adaptador de interfaces resolve esse problema. Afinal, ele possui um cabo USB
 o adaptador pode ser conectado ao computador. 
 **Eles compartilham uma interface comum com o computador: USB.**
 
-![adapter.png](images%2Fadapter.png)
+![adapter.png](images/adapter.png)
 
 Na prática:
 
