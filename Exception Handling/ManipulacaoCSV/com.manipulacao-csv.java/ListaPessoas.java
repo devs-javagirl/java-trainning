@@ -7,7 +7,7 @@ import java.util.List;
 
 public class ListaPessoas {
 
-    public static List<Pessoa> PreencheLista(String arquivoCSV) {
+    public static List<Pessoa> lerCsvEConverteParaPessoas(String arquivoCSV) {
         List<Pessoa> pessoasList = null;
         try (BufferedReader br = new BufferedReader(new FileReader(arquivoCSV))) {
             pessoasList = new ArrayList<>();
