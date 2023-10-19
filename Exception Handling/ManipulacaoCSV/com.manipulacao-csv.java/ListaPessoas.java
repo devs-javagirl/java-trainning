@@ -34,15 +34,10 @@ public class ListaPessoas {
     }
 
     public static double calcularMediaIdade(List<Pessoa> pessoaList){
-        if(!pessoaList.isEmpty()){
-            int somaIdades = 0;
-            for (Pessoa p : pessoaList){
-                somaIdades = somaIdades + p.getIdade();
-            }
-            return (double) somaIdades / pessoaList.size();
-        } else {
-            return 0.0;
-        }
+return pessoas.stream()
+                .mapToDouble(Pessoa::getIdade)
+                .average()
+                .orElse(0.0);
     }
 
     public static void main(String[] args) {
