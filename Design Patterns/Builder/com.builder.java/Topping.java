@@ -1,0 +1,3 @@
+enum Topping {
+    HAM, MUSHROOM, CORN, ONION, SAUSAGE, CHEESE;
+}

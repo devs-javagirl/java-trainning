@@ -1,0 +1,3 @@
+enum Sauce {
+    WHITE, RED;
+}
