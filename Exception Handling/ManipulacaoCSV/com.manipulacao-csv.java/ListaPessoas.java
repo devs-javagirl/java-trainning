@@ -43,13 +43,9 @@ return pessoas.stream()
     public static void main(String[] args) {
         String pathArquivoCsv = "Exception Handling/ManipulacaoCSV/com.manipulacao-csv.java/dados.csv";
         List<Pessoa> pessoas = PreencheLista(pathArquivoCsv);
-        if(!pessoas.isEmpty()){
-            for (Pessoa p: pessoas){
-                System.out.println(p);
-            }
-
-            double mediaIdade = calcularMediaIdade(pessoas);
-            System.out.println("Média de idade das pessoas: "+mediaIdade);
+        if(!pessoas.isEmpty()) {
+            pessoas.forEach(System.out::println);
+            System.out.println("Média de idade das pessoas: "+ calcularMediaIdade(pessoas));
         } else {
             System.out.println("Arquivo está vazio");
         }
