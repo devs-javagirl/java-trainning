@@ -40,7 +40,8 @@ public class Main {
             int pivot = particionaLomuto(array, inicio, fim);
 
             /*a chamada dupla recursiva à função quicksort, na primeira chamada mandamos o lado "direto" do pivot
-             *na segunda chamada mandamos o lado "esquerdo" do pivot*/
+             *na segunda chamada mandamos o lado "esquerdo" do pivot
+             * *não precisamos enviar o pivot pois ele já está na posição correta*/
             quickSort(array, inicio, pivot-1);
             quickSort(array, pivot+1, fim);
         }
