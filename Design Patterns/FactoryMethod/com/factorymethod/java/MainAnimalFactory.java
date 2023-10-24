@@ -1,4 +1,4 @@
-public class Main {
+public class MainAnimalFactory {
     public static void main(String[] args) {
         AnimalFactory animalFactory = new RandomAnimalFactory();
         Animal randomAnimal = animalFactory.createAnimal();
