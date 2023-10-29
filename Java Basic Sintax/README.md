@@ -89,7 +89,7 @@ public class MinhaClasse {
 }
 ```
 
-#Variáveis
+# Variáveis
 
 As variáveis server para nomear\armazenar dados e elas são compostas por:
 
@@ -164,6 +164,7 @@ PascalCase para classes, enum e interfaces;
 SCREAMING_SNAKE_CASE para constantes.
 
 Fontes:
+
 [Boson Treinamentos em Ciência e Tecnologia](http://www.bosontreinamentos.com.br/java/curso-de-java-o-que-sao-packages-pacotes/#:~:text=Os%20pacotes%20s%C3%A3o%20usados%20para,de%20classes%2C%20interfaces%20e%20enumera%C3%A7%C3%B5es.)
 
 [DevMedia](https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293#:~:text=As%20vari%C3%A1veis%20de%20inst%C3%A2ncia%20de,boolean%20s%C3%A3o%20inicializadas%20como%20false.)
