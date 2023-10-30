@@ -16,6 +16,6 @@ public class ProductStockService {
   public void addProductsToStock(int productsToAdd) {
     if (product.getProductsInStock() == 0)
       if (productsToAdd > 0)
-          subject.postMessage("Available product ! Buy " + product.getDescription() + " NOW !");
+          subject.postMessage("Available product NOW ! Buy " + product.getDescription() + "!");
   }
 }
