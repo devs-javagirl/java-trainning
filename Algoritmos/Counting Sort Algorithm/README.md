@@ -90,4 +90,5 @@ Para demonstrar o funcionamento do Counting Sort, vamos considerar a seguinte co
    
 
 4. **Lista Ordenada:**
-    - Após completar o passo anterior para todos os elementos, obtemos a lista ordenada.
+    - Após completar o passo anterior para todos os elementos, obtemos a lista ordenada no vetor auxiliar.
+    - Em seguida, basta copiar o vetor auxiliar para o vetor original e obter os elementos organizados.
