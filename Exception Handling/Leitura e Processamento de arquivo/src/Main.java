@@ -11,10 +11,10 @@ import java.util.Objects;
 public class Main {
     
     public static void main(String[] args){
-        File file = new File("Color.txt");
-        String pathAbs = System.getProperty("user.dir").concat("/" +file.getPath());
+        File file = new File("");
+        String path = file.getAbsolutePath().concat("/Exception Handling/Leitura e Processamento de arquivo/Color.txt");
         
-        List<String> data = readFileReader(pathAbs);
+        List<String> data = readFileReader(path);
         
         Collections.sort(data);
         data.forEach(System.out::println);
