@@ -8,9 +8,8 @@ import java.util.List;
 public class ListaPessoas {
 
     public static List<Pessoa> lerCsvEConverteParaPessoas(String arquivoCSV) {
-        List<Pessoa> pessoasList = null;
+        List<Pessoa> pessoasList = new ArrayList<>();;
         try (BufferedReader br = new BufferedReader(new FileReader(arquivoCSV))) {
-            pessoasList = new ArrayList<>();
             String linha;
             boolean primeiraLinha = true;
             while ((linha = br.readLine()) != null) {
