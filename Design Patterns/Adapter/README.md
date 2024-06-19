@@ -1,5 +1,5 @@
-# Builder Pattern
-O padrão Builder é um padrão de projeto estrutural,
+# Adapter Pattern
+O padrão **Adapter** é um padrão de projeto estrutural,
 que tem como objetivo a capacidade de permitir que classes
 trabalhem juntas quando não poderiam por conta de
 incompatibilidade de interfaces.
